@@ -10,3 +10,7 @@ java -jar pastescout.jar [options]
  - Press Enter to confirm build
  
 Find your jar in ```out/artifacts/pastescout_jar/```
+
+## Libraries used
+ - [Apache Commons CLI](https://commons.apache.org/proper/commons-cli/index.html)
+ - [JSoup](https://jsoup.org/)
